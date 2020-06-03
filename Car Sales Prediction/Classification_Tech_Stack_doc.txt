@@ -1,0 +1,14 @@
+Technical Description
+
+- Python: V.3.6
+
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sklearn Graphviz, Pydotplus
+
+- install required library using:
+	pandas 		-> pip install pandas
+	numpy 		-> pip install numpy
+	Matplotlib 	-> pip install matplotlib
+	Seaborn 	-> pip install seaborn
+	Sklearn 	-> pip install scikit-learn
+	Graphviz	-> pip install graphviz   (Linux Users also do: sudo apt-get install graphviz)
+	Pydotplus	-> pip install pydotplus
