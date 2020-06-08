@@ -1,0 +1,209 @@
+,product,category,brand,mrp,sp,discount,sku,description,url
+3,fruits-vegetables,"Potato, Onion & Tomato",Fresho,25.00,20.00,20,10000148,Onion,/pd/10000148/fresho-onion-1-kg/
+4,fruits-vegetables,"Potato, Onion & Tomato",Fresho,46.25,37.00,20,10000159,Potato,/pd/10000159/fresho-potato-1-kg/
+9,fruits-vegetables,Mangoes,bb Combo,333.75,267.00,20,1200345,Mango - Banganpalli,/pd/1200345/bb-combo-mango-banganpalli-3-kg/
+10,fruits-vegetables,Mangoes,Fresho,111.25,89.00,20,10000298,Banganapalli Mango,/pd/10000298/fresho-banganapalli-mango-1-kg/
+11,fruits-vegetables,Mangoes,Fresho,111.25,89.00,20,10000298,Banganapalli Mango,/pd/10000298/fresho-banganapalli-mango-1-kg/
+78,fruits-vegetables,Organic Vegetables,Fresho,15.00,12.00,20,40022638,"Tomato - Local, Organically Grown",/pd/40022638/fresho-tomato-local-organically-grown-500-g/
+79,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,65.00,52.00,20,40103540,Watermelon -  Medium,/pd/40103540/fresho-watermelon-medium-1-pc/
+80,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,52.50,42.00,20,10000207,Watermelon  - Small,/pd/10000207/fresho-watermelon-small-1-pc/
+81,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,52.50,42.00,20,10000207,Watermelon  - Small,/pd/10000207/fresho-watermelon-small-1-pc/
+82,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,27.50,22.00,20,10000025,Banana - Robusta,/pd/10000025/fresho-banana-robusta-1-kg/
+83,fruits-vegetables,Cucumber & Capsicum,Fresho,30.00,24.00,20,10000102,Cucumber,/pd/10000102/fresho-cucumber-1-kg/
+84,fruits-vegetables,Cucumber & Capsicum,Fresho,15.00,12.00,20,10000103,Cucumber,/pd/10000103/fresho-cucumber-500-g/
+85,fruits-vegetables,Cucumber & Capsicum,Fresho,15.00,12.00,20,10000103,Cucumber,/pd/10000103/fresho-cucumber-500-g/
+86,fruits-vegetables,Cabbage & Cauliflower,Fresho,20.00,16.00,20,10000066,Cabbage,/pd/10000066/fresho-cabbage-1-pc/
+87,fruits-vegetables,Exotic Vegetables,Fresho,38.75,31.00,20,40004992,Sweet Corn,/pd/40004992/fresho-sweet-corn-2-pcs/
+88,fruits-vegetables,Root Vegetables,Fresho,25.00,20.00,20,10000046,Beetroot,/pd/10000046/fresho-beetroot-500-g/
+89,fruits-vegetables,Root Vegetables,Fresho,12.50,10.00,20,10000047,Beetroot,/pd/10000047/fresho-beetroot-250-g/
+90,fruits-vegetables,Root Vegetables,Fresho,12.50,10.00,20,10000047,Beetroot,/pd/10000047/fresho-beetroot-250-g/
+91,fruits-vegetables,Apples & Pomegranate,Fresho,148.75,119.00,20,40033819,Apple - Shimla,/pd/40033819/fresho-apple-shimla-4-pcs/
+92,fruits-vegetables,"Lemon, Ginger & Garlic",Fresho,12.50,8.00,36,10000117,Ginger,/pd/10000117/fresho-ginger-100-g/
+93,fruits-vegetables,"Lemon, Ginger & Garlic",Fresho,8.75,7.00,20,10000081,"Chilli - Green Long, Medium",/pd/10000081/fresho-chilli-green-long-medium-100-g/
+94,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,70.00,56.00,20,40089742,Beans - Haricot,/pd/40089742/fresho-beans-haricot-500-g/
+95,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,37.50,30.00,20,40089743,Beans - Haricot,/pd/40089743/fresho-beans-haricot-250-g/
+96,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,37.50,30.00,20,40089743,Beans - Haricot,/pd/40089743/fresho-beans-haricot-250-g/
+97,fruits-vegetables,Organic Vegetables,Fresho,28.75,23.00,20,40023472,Onion - Organically Grown,/pd/40023472/fresho-onion-organically-grown-1-kg/
+98,fruits-vegetables,Leafy Vegetables,Fresho,20.00,16.00,20,20000974,Methi,/pd/20000974/fresho-methi-100-g/
+99,fruits-vegetables,Exotic Vegetables,Fresho,101.25,81.00,20,10000063,Broccoli,/pd/10000063/fresho-broccoli-500-g/
+100,fruits-vegetables,"Lemon, Ginger & Garlic",Fresho,51.25,41.00,20,10000115,Garlic,/pd/10000115/fresho-garlic-250-g/
+101,fruits-vegetables,Cucumber & Capsicum,Fresho,32.50,26.00,20,10000599,Cucumber - English,/pd/10000599/fresho-cucumber-english-500-g/
+102,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,32.50,26.00,20,10000054,Brinjal - Bottle Shape,/pd/10000054/fresho-brinjal-bottle-shape-500-g/
+103,fruits-vegetables,Apples & Pomegranate,Fresho,186.25,149.00,20,40033824,"Apple - Red Delicious/Washington, Regular",/pd/40033824/fresho-apple-red-deliciouswashington-regular-4-pcs/
+104,fruits-vegetables,Mangoes,Fresho,81.25,65.00,20,10000306,Lalbagh Mango - Sindhura,/pd/10000306/fresho-lalbagh-mango-sindhura-1-kg/
+105,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,48.75,39.00,20,10000152,Papaya - Medium,/pd/10000152/fresho-papaya-medium-1-pc/
+106,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,37.50,30.00,20,40073761,Muskmelon - Striped,/pd/40073761/fresho-muskmelon-striped-1-pc/
+107,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,38.75,31.00,20,10000176,Ridge Gourd,/pd/10000176/fresho-ridge-gourd-500-g/
+108,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,75.00,60.00,20,10000175,Ridge Gourd,/pd/10000175/fresho-ridge-gourd-1-kg/
+109,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,75.00,60.00,20,10000175,Ridge Gourd,/pd/10000175/fresho-ridge-gourd-1-kg/
+110,fruits-vegetables,Organic Vegetables,Fresho,12.50,10.00,20,50000509,Ginger - Organically Grown,/pd/50000509/fresho-ginger-organically-grown-100-g/
+111,fruits-vegetables,Organic Vegetables,Fresho,50.00,40.00,20,40023476,Potato - Organically Grown,/pd/40023476/fresho-potato-organically-grown-1-kg/
+112,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,73.75,59.00,20,10000346,Banana - Nendran,/pd/10000346/fresho-banana-nendran-1-kg/
+113,fruits-vegetables,Seasonal Fruits,Fresho,30.00,24.00,20,10000587,Raw Mango,/pd/10000587/fresho-raw-mango-500-g/
+114,fruits-vegetables,Cucumber & Capsicum,Fresho,82.50,66.00,20,1202153,"Cucumber, Carrot & Beetroot 500g Each Salad",/pd/1202153/fresho-cucumber-carrot-beetroot-500g-each-salad-combo/
+115,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,51.25,41.00,20,10000370,Guava,/pd/10000370/fresho-guava-500-g/
+116,fruits-vegetables,Leafy Vegetables,Fresho,8.75,7.00,20,10000137,Mint Leaves,/pd/10000137/fresho-mint-leaves-100-g/
+117,fruits-vegetables,Apples & Pomegranate,Fresho,272.50,218.00,20,1202322,"Pear - Green, Imported",/pd/1202322/fresho-pear-green-imported-2x4-pcs/
+118,fruits-vegetables,Apples & Pomegranate,USA,221.25,177.00,20,1202331,"Pear - Green, Imported",/pd/1202331/usa-pear-green-imported-3x2-pcs/
+119,fruits-vegetables,Apples & Pomegranate,Fresho,73.75,59.00,20,40048444,"Pear - Green, Imported",/pd/40048444/fresho-pear-green-imported-2-pcs/
+120,fruits-vegetables,Apples & Pomegranate,Fresho,136.25,109.00,20,40048445,"Pear - Green, Imported",/pd/40048445/fresho-pear-green-imported-4-pcs/
+121,fruits-vegetables,Apples & Pomegranate,Fresho,136.25,109.00,20,40048445,"Pear - Green, Imported",/pd/40048445/fresho-pear-green-imported-4-pcs/
+122,fruits-vegetables,Organic Vegetables,Fresho,32.50,26.00,20,10000293,Amla,/pd/10000293/fresho-amla-250-g/
+123,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,40.00,32.00,20,10000181,Sapota,/pd/10000181/fresho-sapota-500-g/
+124,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,100.00,80.00,20,20000911,Kiwi - Green,/pd/20000911/fresho-kiwi-green-3-pcs/
+125,fruits-vegetables,Root Vegetables,Fresho,12.50,11.00,12,10000166,Radish - White,/pd/10000166/fresho-radish-white-500-g/
+126,fruits-vegetables,Exotic Fruits,Fresho,100.00,80.00,20,10000013,Avocado,/pd/10000013/fresho-avocado-500-g/
+127,fruits-vegetables,Leafy Vegetables,Fresho,17.50,14.00,20,20000981,Spring Onion,/pd/20000981/fresho-spring-onion-100-g/
+128,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,83.75,67.00,20,1209679,Brinjal Bottle Shape 500 g + Cauliflower 1 pc + Cabbage 1 pc,/pd/1209679/fresho-brinjal-bottle-shape-500-g-cauliflower-1-pc-cabbage-1-pc-combo/
+129,fruits-vegetables,Organic Vegetables,Fresho,10.00,8.00,20,50000511,"Chilli - Green, Organically Grown",/pd/50000511/fresho-chilli-green-organically-grown-100-g/
+130,fruits-vegetables,"Potato, Onion & Tomato",Fresho,62.50,50.00,20,10000193,Sweet Potato,/pd/10000193/fresho-sweet-potato-1-kg/
+131,fruits-vegetables,"Potato, Onion & Tomato",Fresho,32.50,26.00,20,10000194,Sweet Potato,/pd/10000194/fresho-sweet-potato-500-g/
+132,fruits-vegetables,"Potato, Onion & Tomato",Fresho,17.50,14.00,20,10000195,Sweet Potato,/pd/10000195/fresho-sweet-potato-250-g/
+133,fruits-vegetables,"Potato, Onion & Tomato",Fresho,32.50,26.00,20,10000194,Sweet Potato,/pd/10000194/fresho-sweet-potato-500-g/
+134,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,163.75,131.00,20,20000909,"Orange - Imported, Regular",/pd/20000909/fresho-orange-imported-regular-4-pcs/
+135,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,201.25,161.00,20,20000910,Orange - Imported,/pd/20000910/fresho-orange-imported-6-pcs/
+136,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,201.25,161.00,20,20000910,Orange - Imported,/pd/20000910/fresho-orange-imported-6-pcs/
+137,fruits-vegetables,Apples & Pomegranate,Fresho,277.50,222.00,20,1209665,Apple Shimla 4 pcs + Banana Robusta 1 kg + Watermelon Small + Papaya Medium 1 pc,/pd/1209665/fresho-apple-shimla-4-pcs-banana-robusta-1-kg-watermelon-small-papaya-medium-1-pc-combo/
+138,fruits-vegetables,Mangoes,Fresho,125.00,100.00,20,10000304,Mallika Mango,/pd/10000304/fresho-mallika-mango-1-kg/
+139,fruits-vegetables,Apples & Pomegranate,Fresho,186.25,149.00,20,40033823,"Apple - Royal Gala, Regular",/pd/40033823/fresho-apple-royal-gala-regular-4-pcs/
+140,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,10.00,8.00,20,10000108,Drumstick,/pd/10000108/fresho-drumstick-100-g/
+141,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,23.75,19.00,20,10000109,Drumstick,/pd/10000109/fresho-drumstick-250-g/
+142,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,23.75,19.00,20,10000109,Drumstick,/pd/10000109/fresho-drumstick-250-g/
+143,fruits-vegetables,"Potato, Onion & Tomato",Fresho,23.75,19.00,20,10000178,Onion - Sambhar,/pd/10000178/fresho-onion-sambhar-250-g/
+144,fruits-vegetables,Indian & Exotic Herbs,Fresho,12.50,10.00,20,10000104,Curry Leaves,/pd/10000104/fresho-curry-leaves-100-g/
+145,fruits-vegetables,Cucumber & Capsicum,Fresho,11.25,9.00,20,10000091,Coccinia,/pd/10000091/fresho-coccinia-500-g/
+146,fruits-vegetables,Root Vegetables,Fresho,26.25,21.00,20,10000271,Carrot - Ooty,/pd/10000271/fresho-carrot-ooty-500-g/
+147,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,118.75,95.00,20,40105338,Mosambi - Economy,/pd/40105338/fresho-mosambi-economy-3-kg/
+148,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,593.75,475.00,20,1203627,Mosambi Economy,/pd/1203627/fresho-mosambi-economy-5x3-kg/
+149,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,593.75,475.00,20,1203627,Mosambi Economy,/pd/1203627/fresho-mosambi-economy-5x3-kg/
+150,fruits-vegetables,Mangoes,Fresho,100.00,80.00,20,10000300,Raspuri/Gola Mango,/pd/10000300/fresho-raspurigola-mango-1-kg/
+151,fruits-vegetables,Apples & Pomegranate,Fresho,123.75,99.00,20,40120006,Pomegranate - Small,/pd/40120006/fresho-pomegranate-small-1-kg/
+152,fruits-vegetables,Apples & Pomegranate,Fresho,447.50,358.00,20,1203785,"Apple - Fuji, Regular",/pd/1203785/fresho-apple-fuji-regular-2x4-pcs/
+153,fruits-vegetables,Apples & Pomegranate,Fresho,223.75,179.00,20,40033815,"Apple - Fuji, Regular",/pd/40033815/fresho-apple-fuji-regular-4-pcs/
+154,fruits-vegetables,Apples & Pomegranate,Fresho,223.75,179.00,20,40033815,"Apple - Fuji, Regular",/pd/40033815/fresho-apple-fuji-regular-4-pcs/
+155,fruits-vegetables,Apples & Pomegranate,Fresho,338.75,271.00,20,1201615,Apple Shimla Economy 1kg + Mosambi 4pcs + Banana Robusta 1kg + Pomegranate 2pcs,/pd/1201615/fresho-apple-shimla-economy-1kg-mosambi-4pcs-banana-robusta-1kg-pomegranate-2pcs-combo/
+156,fruits-vegetables,Organic Fruits,Fresho,40.00,32.00,20,40023478,Coconut - Organically Grown,/pd/40023478/fresho-coconut-organically-grown-1-pc/
+157,fruits-vegetables,Root Vegetables,Fresho,31.25,25.00,20,10000095,Colocasia,/pd/10000095/fresho-colocasia-250-g/
+158,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,37.50,30.00,20,20000702,"Beans - French, Round",/pd/20000702/fresho-beans-french-round-250-g/
+159,fruits-vegetables,Organic Vegetables,Fresho,56.25,45.00,20,50000507,Garlic - Organically Grown,/pd/50000507/fresho-garlic-organically-grown-250-g/
+160,fruits-vegetables,Cucumber & Capsicum,Fresho,62.50,50.00,20,10000172,Capsicum - Red,/pd/10000172/fresho-capsicum-red-500-g/
+161,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,30.00,24.00,20,10000060,Brinjal - Varikatri,/pd/10000060/fresho-brinjal-varikatri-500-g/
+162,fruits-vegetables,Apples & Pomegranate,Fresho,198.75,159.00,20,40134281,Baby Apple Shimla,/pd/40134281/fresho-baby-apple-shimla-1-kg/
+163,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,43.75,35.00,20,10000192,Mosambi,/pd/10000192/fresho-mosambi-4-pcs/
+164,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,268.75,215.00,20,1203625,Mosambi,/pd/1203625/fresho-mosambi-5x6-pcs/
+165,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,218.75,175.00,20,1203626,Mosambi,/pd/1203626/fresho-mosambi-5x4-pcs/
+166,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,53.75,43.00,20,10000191,Mosambi,/pd/10000191/fresho-mosambi-6-pcs/
+167,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,53.75,43.00,20,10000191,Mosambi,/pd/10000191/fresho-mosambi-6-pcs/
+168,fruits-vegetables,Cucumber & Capsicum,Fresho,70.00,56.00,20,10000366,Parwal,/pd/10000366/fresho-parwal-500-g/
+169,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,20.00,16.00,20,10000274,Beans - Cowpea,/pd/10000274/fresho-beans-cowpea-250-g/
+170,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,38.75,31.00,20,10000275,Beans - Cowpea,/pd/10000275/fresho-beans-cowpea-500-g/
+171,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,38.75,31.00,20,10000275,Beans - Cowpea,/pd/10000275/fresho-beans-cowpea-500-g/
+172,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,38.75,31.00,20,10000038,Beans - Broad,/pd/10000038/fresho-beans-broad-500-g/
+173,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,36.25,29.00,20,40114961,Papaya - Small,/pd/40114961/fresho-papaya-small-1-pc/
+174,fruits-vegetables,Exotic Fruits,Fresho,36.25,29.00,20,20000707,Grapes - Bangalore Blue with Seed,/pd/20000707/fresho-grapes-bangalore-blue-with-seed-500-g/
+175,fruits-vegetables,Organic Vegetables,Fresho,21.25,17.00,20,40022639,Cucumber - Organically Grown,/pd/40022639/fresho-cucumber-organically-grown-500-g/
+176,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,20.00,16.00,20,10000040,Beans - Cluster,/pd/10000040/fresho-beans-cluster-250-g/
+177,fruits-vegetables,Organic Vegetables,Fresho,113.75,91.00,20,1203467,Tomato - Hybrid 1kg + Onion 1kg + Potato 1kg (Organically Grown),/pd/1203467/fresho-tomato-hybrid-1kg-onion-1kg-potato-1kg-organically-grown-combo/
+178,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,25.00,20.00,20,20000745,Bottle Gourd,/pd/20000745/fresho-bottle-gourd-1-pc/
+179,fruits-vegetables,Exotic Vegetables,Fresho,32.50,26.00,20,10000024,Baby Potato,/pd/10000024/fresho-baby-potato-500-g/
+180,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,151.25,121.00,20,40150775,Kiwi,/pd/40150775/fresho-kiwi-400-g/
+181,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,21.25,17.00,20,10000087,Chow Chow,/pd/10000087/fresho-chow-chow-500-g/
+182,fruits-vegetables,Mangoes,Fresho,37.50,30.00,20,10000590,Totapuri Mango,/pd/10000590/fresho-totapuri-mango-1-kg/
+183,fruits-vegetables,Cucumber & Capsicum,Fresho,62.50,50.00,20,10000208,Capsicum - Yellow,/pd/10000208/fresho-capsicum-yellow-500-g/
+184,fruits-vegetables,Organic Vegetables,Fresho,30.00,24.00,20,50000468,Bottle Gourd - Organically Grown,/pd/50000468/fresho-bottle-gourd-organically-grown-1-pc/
+185,fruits-vegetables,Organic Vegetables,Fresho,38.75,31.00,20,40023471,Pumpkin - Organically Grown,/pd/40023471/fresho-pumpkin-organically-grown-1-pc/
+186,fruits-vegetables,Apples & Pomegranate,Fresho,173.75,139.00,20,40075384,"Apple - Red Delicious/Washington, Economy",/pd/40075384/fresho-apple-red-deliciouswashington-economy-4-pcs/
+187,fruits-vegetables,Apples & Pomegranate,Fresho,46.25,37.00,20,10000156,Pineapple,/pd/10000156/fresho-pineapple-1-pc/
+188,fruits-vegetables,Organic Vegetables,Fresho,35.00,28.00,20,50000557,"Tomato - Hybrid, Organically Grown",/pd/50000557/fresho-tomato-hybrid-organically-grown-1-kg/
+189,fruits-vegetables,Leafy Vegetables,Fresho,18.75,15.00,20,30000575,Amaranthus - Red,/pd/30000575/fresho-amaranthus-red-250-g/
+190,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,28.75,23.00,20,10000168,Banana - Raw Green,/pd/10000168/fresho-banana-raw-green-500-g/
+191,fruits-vegetables,Seasonal Fruits,Fresho,225.00,219.00,6,20000727,"Dates - Kimia, with Seed",/pd/20000727/fresho-dates-kimia-with-seed-1-pc/
+192,fruits-vegetables,"Cut Fruit, Tender Coconut",Fresho,46.25,37.00,20,40073760,Tender Coconut - Small,/pd/40073760/fresho-tender-coconut-small-1-pc/
+193,fruits-vegetables,Organic Fruits,Fresho,65.00,52.00,20,40023482,Watermelon - Organically Grown,/pd/40023482/fresho-watermelon-organically-grown-1-pc/
+194,fruits-vegetables,Apples & Pomegranate,Fresho,161.25,129.00,20,10000005,Apple - Royal Gala Economy,/pd/10000005/fresho-apple-royal-gala-economy-4-pcs/
+195,fruits-vegetables,Organic Vegetables,Fresho,15.00,12.00,20,40020581,Fresh Turmeric - Organically Grown,/pd/40020581/fresho-fresh-turmeric-organically-grown-250-g/
+196,fruits-vegetables,Organic Vegetables,Fresho,95.00,76.00,20,40023469,Beans - Organically Grown,/pd/40023469/fresho-beans-organically-grown-500-g/
+197,fruits-vegetables,Cucumber & Capsicum,Fresho,11.25,9.00,20,10000101,Cucumber - Mangalore,/pd/10000101/fresho-cucumber-mangalore-500-g/
+198,fruits-vegetables,Organic Fruits,Fresho,56.25,45.00,20,50000534,Muskmelon - Organically Grown,/pd/50000534/fresho-muskmelon-organically-grown-1-pc/
+199,fruits-vegetables,Leafy Vegetables,Fresho,15.00,12.00,20,20000756,Basale Leaf,/pd/20000756/fresho-basale-leaf-250-g/
+200,fruits-vegetables,Exotic Vegetables,Fresho,32.50,26.00,20,10000133,Lettuce - Iceberg,/pd/10000133/fresho-lettuce-iceberg-500-g/
+201,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,48.75,39.00,20,40083737,Mosambi - Premium,/pd/40083737/fresho-mosambi-premium-4-pcs/
+202,fruits-vegetables,Leafy Vegetables,Fresho,47.50,38.00,20,10000380,Papaya - Raw,/pd/10000380/fresho-papaya-raw-1-kg/
+203,fruits-vegetables,Organic Vegetables,Fresho,12.50,10.00,20,50000483,Coccinia - Organically Grown,/pd/50000483/fresho-coccinia-organically-grown-250-g/
+204,fruits-vegetables,"Kiwi, Melon, Citrus Fruit",Fresho,52.50,42.00,20,10000141,Muskmelon -  Netted Small,/pd/10000141/fresho-muskmelon-netted-small-1-pc/
+205,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,22.50,18.00,20,10000281,Pumpkin - Disco,/pd/10000281/fresho-pumpkin-disco-500-g/
+206,fruits-vegetables,Exotic Fruits,Fresho,76.25,61.00,20,40019777,Grapes - Red Globe  Indian,/pd/40019777/fresho-grapes-red-globe-indian-500-g/
+207,fruits-vegetables,Organic Vegetables,Fresho,18.75,15.00,20,50000478,"Capsicum - Green, Organically Grown",/pd/50000478/fresho-capsicum-green-organically-grown-250-g/
+208,fruits-vegetables,Apples & Pomegranate,Fresho,173.75,139.00,20,40033817,"Apple - Green, Premium",/pd/40033817/fresho-apple-green-premium-4-pcs/
+209,fruits-vegetables,Apples & Pomegranate,Fresho,347.50,278.00,20,1203789,"Apple - Green, Premium",/pd/1203789/fresho-apple-green-premium-2x4-pcs/
+210,fruits-vegetables,Apples & Pomegranate,Fresho,347.50,278.00,20,1203789,"Apple - Green, Premium",/pd/1203789/fresho-apple-green-premium-2x4-pcs/
+211,fruits-vegetables,Organic Vegetables,Fresho,51.25,41.00,20,50000555,Sweet Potato - Organically Grown,/pd/50000555/fresho-sweet-potato-organically-grown-500-g/
+212,fruits-vegetables,Cut & Peeled Veggies,Fresho,47.50,38.00,20,40010687,Garlic - Peeled,/pd/40010687/fresho-garlic-peeled-100-g/
+213,fruits-vegetables,Cut & Peeled Veggies,Fresho,142.50,114.00,20,1203447,Garlic - Peeled,/pd/1203447/fresho-garlic-peeled-3x100-g/
+214,fruits-vegetables,Cut & Peeled Veggies,Fresho,47.50,38.00,20,40010687,Garlic - Peeled,/pd/40010687/fresho-garlic-peeled-100-g/
+215,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,20.00,16.00,20,40179390,Baby Banana - Robusta,/pd/40179390/fresho-baby-banana-robusta-1-kg/
+216,fruits-vegetables,Apples & Pomegranate,Fresho,218.75,175.00,20,40105380,"Apple - Royal Gala, Premium",/pd/40105380/fresho-apple-royal-gala-premium-4-pcsapprox600-g-700-g/
+217,fruits-vegetables,Apples & Pomegranate,Fresho,437.50,350.00,20,1203782,"Apple - Royal Gala, Premium",/pd/1203782/fresho-apple-royal-gala-premium-2x4-pcs/
+218,fruits-vegetables,Apples & Pomegranate,Fresho,437.50,350.00,20,1203782,"Apple - Royal Gala, Premium",/pd/1203782/fresho-apple-royal-gala-premium-2x4-pcs/
+219,fruits-vegetables,Organic Vegetables,Fresho,27.50,22.00,20,50000466,Bitter Gourd - Organically Grown,/pd/50000466/fresho-bitter-gourd-organically-grown-250-g/
+220,fruits-vegetables,Mangoes,Fresho,201.25,161.00,20,10000308,Malgoa Mango,/pd/10000308/fresho-malgoa-mango-1-kg/
+221,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,38.75,31.00,20,10000372,Tinda,/pd/10000372/fresho-tinda-250-g/
+222,fruits-vegetables,"Beans, Brinjals & Okra",Fresho,23.75,19.00,20,10000056,"Brinjal - Green, Long",/pd/10000056/fresho-brinjal-green-long-500-g/
+223,fruits-vegetables,Exotic Vegetables,Fresho,12.50,10.00,20,20000926,Baby Corn - Unpeeled,/pd/20000926/fresho-baby-corn-unpeeled-250-g/
+224,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,37.50,30.00,20,10000581,Banana - Red,/pd/10000581/fresho-banana-red-500-g/
+225,fruits-vegetables,Exotic Fruits,Fresho,63.75,51.00,20,30000466,Fresh Figs,/pd/30000466/fresho-fresh-figs-250-g/
+226,fruits-vegetables,Roses,Fresho,38.75,31.00,20,40054182,Cut Roses,/pd/40054182/fresho-cut-roses-250-g/
+227,fruits-vegetables,Seasonal Fruits,Fresho,173.75,139.00,20,20001095,Apricot - Dried,/pd/20001095/fresho-apricot-dried-200-g/
+228,fruits-vegetables,Organic Vegetables,Fresho,21.25,17.00,20,40036723,Banana Flower - Organically Grown,/pd/40036723/fresho-banana-flower-organically-grown-1-pc/
+229,fruits-vegetables,Apples & Pomegranate,Fresho,497.50,398.00,20,1203784,Apple - Fuji Premium,/pd/1203784/fresho-apple-fuji-premium-2x4-pcs/
+230,fruits-vegetables,Apples & Pomegranate,Fresho,248.75,199.00,20,40104703,"Apple - Fuji, Premium",/pd/40104703/fresho-apple-fuji-premium-4-pcs/
+231,fruits-vegetables,Apples & Pomegranate,Fresho,248.75,199.00,20,40104703,"Apple - Fuji, Premium",/pd/40104703/fresho-apple-fuji-premium-4-pcs/
+232,fruits-vegetables,Exotic Vegetables,Fresho,33.75,27.00,20,10000210,Zucchini - Yellow,/pd/10000210/fresho-zucchini-yellow-250-g/
+233,fruits-vegetables,Marigold,Fresho,16.25,13.00,20,20001185,Marigold - Orange,/pd/20001185/fresho-marigold-orange-100-g/
+234,fruits-vegetables,Fresh Salads & Sprouts,Fresho,38.75,31.00,20,10000355,Sprouts - Mixed Gram,/pd/10000355/fresho-sprouts-mixed-gram-200-g/
+235,fruits-vegetables,Leafy Vegetables,Fresho,18.75,15.00,20,10000001,Amaranthus - Green,/pd/10000001/fresho-amaranthus-green-250-g/
+236,fruits-vegetables,Organic Vegetables,Fresho,20.00,16.00,20,40036724,Banana Stem - Organically Grown,/pd/40036724/fresho-banana-stem-organically-grown-1-pc/
+237,fruits-vegetables,Cut & Peeled Veggies,Fresho,51.25,41.00,20,10000017,Baby Corn - Peeled,/pd/10000017/fresho-baby-corn-peeled-250-g/
+238,fruits-vegetables,Exotic Vegetables,Fresho,75.00,60.00,20,40020768,Mushrooms - Oyster,/pd/40020768/fresho-mushrooms-oyster-200-g/
+239,fruits-vegetables,Apples & Pomegranate,Fresho,422.50,338.00,20,1203780,"Apple - Red Delicious / Washington, Premium",/pd/1203780/fresho-apple-red-delicious-washington-premium-2x4-pcs/
+240,fruits-vegetables,Apples & Pomegranate,Fresho,211.25,169.00,20,40104709,"Apple - Red Delicious/Washington, Premium",/pd/40104709/fresho-apple-red-deliciouswashington-premium-4-pcs/
+241,fruits-vegetables,Apples & Pomegranate,Fresho,211.25,169.00,20,40104709,"Apple - Red Delicious/Washington, Premium",/pd/40104709/fresho-apple-red-deliciouswashington-premium-4-pcs/
+242,fruits-vegetables,Cut & Peeled Veggies,Fresho,40.00,32.00,20,40019379,Coconut - Diced,/pd/40019379/fresho-coconut-diced-150-g/
+243,fruits-vegetables,Cabbage & Cauliflower,Fresho,32.50,26.00,20,10000278,Knol Khol,/pd/10000278/fresho-knol-khol-500-g/
+244,fruits-vegetables,"Potato, Onion & Tomato",Fresho,107.50,86.00,20,40021628,Ooty Potato - Medium,/pd/40021628/fresho-ooty-potato-medium-1-kg/
+245,fruits-vegetables,Cut & Peeled Veggies,Fresho,17.50,14.00,20,40050705,Pumpkin Green - Cut,/pd/40050705/fresho-pumpkin-green-cut-250-g/
+246,fruits-vegetables,Exotic Vegetables,Fresho,22.50,18.00,20,10000596,Lettuce - Green,/pd/10000596/fresho-lettuce-green-70-to-100-gm-bunch/
+247,fruits-vegetables,Cut & Peeled Veggies,Fresho,71.25,57.00,20,40152633,Dry Copra/Coconut,/pd/40152633/fresho-dry-copracoconut-1-pc/
+248,fruits-vegetables,Organic Vegetables,Fresho,22.50,18.00,20,40020933,Neem Giloy (Amruta Balli) - Organically Grown,/pd/40020933/fresho-neem-giloy-amruta-balli-organically-grown-100-g/
+249,fruits-vegetables,Apples & Pomegranate,Fresho,188.75,151.00,20,10000577,Plum - Imported,/pd/10000577/fresho-plum-imported-500-g/
+250,fruits-vegetables,Apples & Pomegranate,Fresho,91.25,73.00,20,30007415,Plum - Imported,/pd/30007415/fresho-plum-imported-250-g/
+251,fruits-vegetables,Apples & Pomegranate,Fresho,188.75,151.00,20,10000577,Plum - Imported,/pd/10000577/fresho-plum-imported-500-g/
+252,fruits-vegetables,"Gourd, Pumpkin, Drumstick",Fresho,21.25,17.00,20,10000185,Snake Gourd,/pd/10000185/fresho-snake-gourd-500-g/
+253,fruits-vegetables,Cut & Peeled Veggies,Fresho,26.25,21.00,20,40050703,Yam - Cut,/pd/40050703/fresho-yam-cut-250-g/
+254,fruits-vegetables,Indian & Exotic Herbs,Fresho,15.00,12.00,20,10000129,Lemon Grass,/pd/10000129/fresho-lemon-grass-100-g/
+255,fruits-vegetables,Exotic Fruits,Fresho,213.75,171.00,20,30000543,Passion Fruit,/pd/30000543/fresho-passion-fruit-500-g/
+256,fruits-vegetables,Apples & Pomegranate,Fresho,148.75,119.00,20,40126752,"Apple - Fuji, Economy",/pd/40126752/fresho-apple-fuji-economy-4-pcs/
+257,fruits-vegetables,Cabbage & Cauliflower,Fresho,38.75,31.00,20,10000171,Cabbage - Red,/pd/10000171/fresho-cabbage-red-500-g/
+258,fruits-vegetables,Cut & Peeled Veggies,Fresho,42.50,34.00,20,40005819,Sambar Onion - Peeled,/pd/40005819/fresho-sambar-onion-peeled-200-g/
+259,fruits-vegetables,Indian & Exotic Herbs,Fresho,21.25,17.00,20,10000075,Celery,/pd/10000075/fresho-celery-250-g/
+260,fruits-vegetables,Exotic Fruits,Fresho,75.00,60.00,20,40008982,Dragon Fruit,/pd/40008982/fresho-dragon-fruit-1-pc/
+261,fruits-vegetables,Organic Vegetables,Fresho,48.75,39.00,20,30001293,Aloe Vera - Organically grown,/pd/30001293/fresho-aloe-vera-organically-grown-1-pc/
+262,fruits-vegetables,Organic Fruits,Fresho,56.25,45.00,20,40023483,Pineapple - Organically Grown,/pd/40023483/fresho-pineapple-organically-grown-1-pc/
+263,fruits-vegetables,Apples & Pomegranate,Fresho,88.75,71.00,20,30001056,Indian Plum,/pd/30001056/fresho-indian-plum-250-g/
+264,fruits-vegetables,Fresh Salads & Sprouts,Fresho,37.50,30.00,20,10000356,Sprouts-Moong Green,/pd/10000356/fresho-sprouts-moong-green-200-g/
+265,fruits-vegetables,Organic Vegetables,Fresho,23.75,19.00,20,40023195,"Cucumber - Malabar, Organically Grown",/pd/40023195/fresho-cucumber-malabar-organically-grown-1-kg/
+266,fruits-vegetables,Cut & Peeled Veggies,Fresho,16.25,13.00,20,40050086,Ash Gourd - Cut,/pd/40050086/fresho-ash-gourd-cut-250-g/
+267,fruits-vegetables,Exotic Fruits,Fresho,150.00,120.00,20,40122445,"Grapes - Green Seedless, Residue Free",/pd/40122445/fresho-grapes-green-seedless-residue-free-500-g/
+268,fruits-vegetables,Leafy Vegetables,Fresho,13.75,11.00,20,20001347,Betel Leaf,/pd/20001347/fresho-betel-leaf-5-pcs/
+269,fruits-vegetables,"Banana, Sapota & Papaya",Fresho,18.75,15.00,20,10000028,Banana Stem,/pd/10000028/fresho-banana-stem-1-pc/
+270,fruits-vegetables,Exotic Vegetables,Fresho,123.75,99.00,20,30000419,Asparagus,/pd/30000419/fresho-asparagus-250-g/
+271,fruits-vegetables,Marigold,Fresho,71.25,57.00,20,20001037,Chrysanthemum (Shevanti),/pd/20001037/fresho-chrysanthemum-shevanti-250-g/
+272,fruits-vegetables,Exotic Fruits,Fresho,138.75,111.00,20,40004344,Tamarind - Sweet,/pd/40004344/fresho-tamarind-sweet-225-g/
+273,fruits-vegetables,Organic Vegetables,Fresho,35.00,28.00,20,40067696,Baby Potato - Organically Grown,/pd/40067696/fresho-baby-potato-organically-grown-500-g/
+274,fruits-vegetables,Marigold,Fresho,38.75,31.00,20,20001033,Marigold - Yellow,/pd/20001033/fresho-marigold-yellow-250-g/
+275,fruits-vegetables,Indian & Exotic Herbs,Fresho,25.00,20.00,20,10000154,Parsley Leaves - Curly,/pd/10000154/fresho-parsley-leaves-curly-100-g/
+276,fruits-vegetables,Mangoes,Fresho,163.75,131.00,20,30000974,Kesar Mango,/pd/30000974/fresho-kesar-mango-1-kg/
+277,fruits-vegetables,Other Flowers,Fresho,32.50,26.00,20,20003403,Banana Leaf,/pd/20003403/fresho-banana-leaf-5-pcs/
+278,fruits-vegetables,Cucumber & Capsicum,Fresho,31.25,25.00,20,30000456,Cucumber - White,/pd/30000456/fresho-cucumber-white-500-g/
+279,fruits-vegetables,Exotic Vegetables,Fresho,20.00,16.00,20,10000597,Leeks,/pd/10000597/fresho-leeks-100-g/
+280,fruits-vegetables,Fresh Salads & Sprouts,Fresho,36.25,29.00,20,10000357,Sprouts - Channa Brown,/pd/10000357/fresho-sprouts-channa-brown-200-g/
