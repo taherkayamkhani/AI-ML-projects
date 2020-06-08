@@ -46,12 +46,9 @@ The four tasks that will be done as a part of this exercise will be as follows:
 
  For each of the files generated in the previous section, combine them into a single file as follows
  1. Load following scrapped and already cleaned files into separate data frames 
- >
      - BigBasket.csv
      - DMart.csv
-     - Grofers.csv 
-     >
-         
+     - Grofers.csv         
  2. Join all the 3 data frames into a single data frame
  3. Sort the products based on product type and name so that related products will be together irrespective of he shop
  
