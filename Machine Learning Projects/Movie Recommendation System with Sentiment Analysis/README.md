@@ -10,7 +10,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ## How to run the project?
 
-1. Install all the libraries mentioned in the [requirements.txt](https://github.com/taherkayamkhani/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file.
+1. Install all the libraries mentioned in the [requirements.txt](https://github.com/taherkayamkhani/AI-ML-Projects/blob/master/Machine%20Learning%20Projects/Movie%20Recommendation%20System%20with%20Sentiment%20Analysis/requirements.txt) file.
 2. Clone this repository in your local system.
 3. Replace YOUR_API_KEY in the `static/recommend.js` file.
 4. Open the command prompt from your project directory and run the command `python main.py`.
