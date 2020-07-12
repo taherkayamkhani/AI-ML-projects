@@ -1,1 +1,1 @@
-# Deep-Learning-in-Medical-Science
+# Pneumonia Detection
